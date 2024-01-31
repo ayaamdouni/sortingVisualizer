@@ -1,0 +1,38 @@
+/* CSS Variables */
+
+#nav-bar {
+	
+	background-color: rgba(234, 251, 237, 0.988);
+	color: black;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+#title {
+    font-size: 15px;
+    font-family: "Lucida Console"
+}
+
+#toolbar {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	width: 75%;
+	margin-bottom: 10px;
+}
+
+#non-linear-slider {
+	padding: 7px !important;
+}
+
+.separator {
+	width: 3px;
+	height: auto;
+	background-color: rgb(128, 128, 128);
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline-block;
+}

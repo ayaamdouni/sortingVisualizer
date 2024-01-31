@@ -1,0 +1,10 @@
+#footer {
+	background-color: whitesmoke;
+	color: #056528;
+	text-align: center;
+	width: 100%;
+	position: fixed;
+	bottom: 0;
+	padding: 10px;
+	font-style: italic;
+}

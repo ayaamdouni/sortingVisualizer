@@ -1,0 +1,26 @@
+.App{
+    background-color: #c4efc2;
+}
+.bars{
+    color:transparent;
+    background-color: rgb(59, 24, 197);
+}
+.bars-container {
+    display: flex;
+    justify-content: center;
+    gap: 3px
+}
+.title{
+    text-align: center;
+    color:#056528
+}
+
+.buttons {
+    border : 2px solid rgb(111, 74, 31) ;
+}
+.navbar{
+    display: flex;
+    justify-content: left;
+    background-color: black;
+    gap:50px
+}
